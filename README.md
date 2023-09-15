@@ -8,3 +8,4 @@ Festive seasons represent a peak shopping period, and retailers must leverage ef
 # Data
 Data sources for this project will include:
 <b>Customer Data:</b> Customer profiles and past purchase history will help in targeting and tailoring marketing efforts
+
