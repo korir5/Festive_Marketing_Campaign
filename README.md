@@ -17,7 +17,7 @@ Data sources for this project will include:<br>
 Previous campaign shows there was very few response, so what can we do to improve the response rate?
 ![newplot](https://github.com/korir5/Festive_Marketing_Campaign/assets/11253509/4226ae52-2bc2-4319-a4e1-5f47ec1f317a)
 <br>
-This shows most products purchased, so this is how we can use data to know consumer behaviour and know what should be maarketed to create more revenue
+This shows most products purchased, so this is how we can use data to know consumer behaviour and know what should be marketed to create more revenue
 ![newplot (1)](https://github.com/korir5/Festive_Marketing_Campaign/assets/11253509/5822ae01-4896-4fb2-b114-2e123b1c3c22)
 
 
