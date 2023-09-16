@@ -1,4 +1,4 @@
-# Furniture Homestore Festive_Marketing_Campaign
+# Furniture Homestore Festive Marketing Campaign
 Lets prepare for the next marketing campaign (Festive Season Sale)<br>
 <b>by Korir Brian</b>
 # Project Overview
