@@ -1,4 +1,4 @@
-# Furniture Homestore Festive Marketing Campaign
+# Super Store Festive Marketing Campaign
 Lets prepare for the next marketing campaign (Festive Season Sale)<br>
 ### by Korir Brian
 ![Uploading blog-supermarket-inventory-management-1.jpg.optimal.jpg…]()
