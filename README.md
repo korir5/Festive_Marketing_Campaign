@@ -13,6 +13,14 @@ Data sources for this project will include:<br>
 <b>Customer Data:</b> Customer profiles and past purchase history will help in targeting and tailoring marketing efforts
 # Methods
 <b>Customer Segmentation:</b> Utilize data analytics and segmentation techniques to categorize customers into different groups based on demographics, past purchase history, and shopping behavior. This segmentation helps tailor marketing strategies to specific customer segments.
+# Results
+Previous campaign shows there was very few response, so what can we do to improve the response rate?
+![newplot](https://github.com/korir5/Festive_Marketing_Campaign/assets/11253509/4226ae52-2bc2-4319-a4e1-5f47ec1f317a)
+<br>
+This shows most products purchased, so this is how we can use data to know consumer behaviour and know what should be maarketed to create more revenue
+![newplot (1)](https://github.com/korir5/Festive_Marketing_Campaign/assets/11253509/5822ae01-4896-4fb2-b114-2e123b1c3c22)
+
+
 # Conclusions
 The "Furniture Homestore Festive Marketing Campaign" project concludes with several key takeaways and recommendations based on the analysis and results of the campaign. Here are the main conclusions drawn from the project:<br><br>
 <b>Successful Sales Boost:</b> If the campaign is successful in achieving a significant increase in sales revenue during the festive season compared to previous years. This outcome demonstrates the campaign's effectiveness in driving customer purchases.<br><br>
