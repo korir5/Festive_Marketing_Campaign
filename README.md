@@ -1,7 +1,8 @@
 # Furniture Homestore Festive Marketing Campaign
 Lets prepare for the next marketing campaign (Festive Season Sale)<br>
 ### by Korir Brian
-![Provence-scaled-e1694757833806](https://github.com/korir5/Festive_Marketing_Campaign/assets/11253509/01a0dfe0-d399-419d-9f3c-b11d38059175)
+![Uploading blog-supermarket-inventory-management-1.jpg.optimal.jpg…]()
+
 # Project Overview
 The "Super Store Festive Marketing Campaign" project aims to plan, execute, and evaluate a comprehensive marketing campaign for a  retail store in preparation for the festive season. The goal is to boost sales, increase brand visibility, and engage with both existing and potential customers during this crucial period. This project encompasses market analysis, campaign strategy development, implementation, and performance measurement.
 
