@@ -1,12 +1,12 @@
 # Super Store Festive Marketing Campaign
 Lets prepare for the next marketing campaign (Festive Season Sale)<br>
 ### by Korir Brian
-![Uploading blog-supermarket-inventory-management-1.jpg.optimal.jpg…]()
+![blog-supermarket-inventory-management-1 jpg optimal](https://github.com/korir5/Festive_Marketing_Campaign/assets/11253509/68533ceb-8616-4f05-b913-9ebd0ebae19c)
 
 # Project Overview
 The "Super Store Festive Marketing Campaign" project aims to plan, execute, and evaluate a comprehensive marketing campaign for a  retail store in preparation for the festive season. The goal is to boost sales, increase brand visibility, and engage with both existing and potential customers during this crucial period. This project encompasses market analysis, campaign strategy development, implementation, and performance measurement.
 
-![Uploading ffswidebanner.jpeg…]()
+![ffswidebanner](https://github.com/korir5/Festive_Marketing_Campaign/assets/11253509/a5169d11-6ea5-46bd-81e0-73abefea129a)
 # Business Problem
 Festive seasons represent a peak shopping period, and retailers must leverage effective marketing campaigns to capitalize on increased consumer spending. The Retail Super Store recognizes the opportunity to attract customers looking to buy shopping for celebrations and gatherings during this time. The business problem is to design and execute a highly successful festive marketing campaign to boost sales and strengthen the brand's market position.
 # Data
