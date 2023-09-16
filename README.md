@@ -23,7 +23,7 @@ This shows most products purchased, so this is how we can use data to know consu
 
 
 # Conclusions
-The "Furniture Homestore Festive Marketing Campaign" project concludes with several key takeaways and recommendations based on the analysis and results of the campaign. Here are the main conclusions drawn from the project:<br><br>
+The "Super Store Festive Marketing Campaign" project concludes with several key takeaways and recommendations based on the analysis and results of the campaign. Here are the main conclusions drawn from the project:<br><br>
 <b>Successful Sales Boost:</b> If the campaign is successful in achieving a significant increase in sales revenue during the festive season compared to previous years. This outcome demonstrates the campaign's effectiveness in driving customer purchases.<br><br>
 <b>Positive Return on Investment (ROI):</b> The campaign should yielded a positive ROI, to indicate that the resources invested in marketing efforts generates a profitable return. This highlights the campaign's cost-effectiveness.<br><br>
 <b>Lessons Learned:</b> The project identified several lessons learned and best practices that can be applied to future marketing campaigns. These insights include effective content strategies, optimal timing, and customer segmentation tactics.
@@ -33,6 +33,4 @@ The "Furniture Homestore Festive Marketing Campaign" project concludes with seve
 <b>Marketing Channel Optimization:</b> Optimize marketing channel allocation based on the performance data collected during the campaign. Allocate resources to the channels that generated the highest ROI. Consider testing new marketing channels that align with evolving consumer preferences and behavior.<br><br>
 <b>Continuous Testing and Experimentation:</b> Implement an ongoing process of A/B testing and experimentation to refine marketing strategies, content, and messaging. Test new creative elements, promotional tactics, and campaign timing to identify what resonates best with customers.<br><br>
 <b>Budget and Resource Allocation:</b> Evaluate the allocation of budget and resources for future marketing campaigns. Ensure that resources are allocated to the most effective strategies and channels. Consider adjusting budgets to align with seasonal variations in customer demand.
-# For More Information
-See the full analysis in the Jupyter Notebook or review this presentation.
 
